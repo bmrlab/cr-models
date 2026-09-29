@@ -1,0 +1,12 @@
+{
+  "name": "cr-media",
+  "description": "Generate and edit images and videos with CR (creative-reasoning) models. Includes per-model notes on which parameters work, fail or are silently ignored, all from real test runs.",
+  "author": {
+    "name": "BMRLab",
+    "url": "https://github.com/bmrlab"
+  },
+  "homepage": "https://github.com/bmrlab/cr-models",
+  "repository": "https://github.com/bmrlab/cr-models",
+  "license": "MIT",
+  "keywords": ["creative-reasoning", "cr", "image-generation", "video-generation"]
+}

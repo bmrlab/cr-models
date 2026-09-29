@@ -1,0 +1,15 @@
+{
+  "name": "cr",
+  "owner": {
+    "name": "BMRLab",
+    "url": "https://github.com/bmrlab"
+  },
+  "description": "Agent plugins for using models on CR (creative-reasoning), a multi-model API platform.",
+  "plugins": [
+    {
+      "name": "cr-media",
+      "source": "./plugins/cr-media",
+      "description": "Generate and edit images and videos with CR models: text-to-image, image editing, text-to-video, image-to-video, reference-to-video, video editing."
+    }
+  ]
+}
