@@ -5,8 +5,8 @@
     "name": "BMRLab",
     "url": "https://github.com/bmrlab"
   },
-  "homepage": "https://github.com/bmrlab/cr-models",
-  "repository": "https://github.com/bmrlab/cr-models",
+  "homepage": "https://github.com/bmrlab/cr-skills",
+  "repository": "https://github.com/bmrlab/cr-skills",
   "license": "MIT",
   "keywords": ["creative-reasoning", "cr", "image-generation", "video-generation"]
 }

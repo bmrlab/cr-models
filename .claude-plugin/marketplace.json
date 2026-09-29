@@ -4,7 +4,7 @@
     "name": "BMRLab",
     "url": "https://github.com/bmrlab"
   },
-  "description": "Agent plugins for using models on CR (creative-reasoning), a multi-model API platform.",
+  "description": "Agent skills for using models on CR (creative-reasoning), a multi-model API platform.",
   "plugins": [
     {
       "name": "cr-media",
